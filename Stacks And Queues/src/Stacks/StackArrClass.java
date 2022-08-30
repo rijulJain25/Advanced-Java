@@ -1,3 +1,5 @@
+//Stack class using array
+
 package Stacks;
 
 public class StackArrClass {
