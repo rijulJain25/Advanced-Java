@@ -8,6 +8,8 @@ x^n (i.e. x raise to the power n)
 Constraints :
 0 <= x <= 30
 0 <= n <= 30
+
+Examples:
 Sample Input 1 :
  3 4
 Sample Output 1 :
